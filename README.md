@@ -113,7 +113,7 @@ This project demonstrates the design, implementation, and optimization of a scal
 
 **Uchit Bhadauriya**  
 MSc Data Science, University of Bristol  
-📫 [ir23063@bristol.ac.uk](mailto:ir23063@bristol.ac.uk)
+📫 [uchitbhadauriya540@gmail.com](mailto:uchitbhadauriya540@gmail.com)
 
 ---
 
